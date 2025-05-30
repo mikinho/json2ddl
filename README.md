@@ -1,6 +1,15 @@
 # json2ddl
 Quick Python script to Infer SQL schema from JSON, including nested-array subtables and lists of primitives.
 
+## Install
+
+Download and then chmod +x json2ddl.py
+
+## Notes
+
+- Subtable syntax kind of sucks but will improve.
+- This isn't perfect and isn't meant to be used for a final schema but it should help you get started
+
 ## Usage
 
 ```
